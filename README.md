@@ -5,7 +5,7 @@
 CLI client for a certain Indonesian mobile internet service provider.
 
 # How to get API Key
-Chat telegram bot [@fykxt_bot](https://t.me/fykxt_bot) with message `/viewkey`. Copy the API key.
+Chat telegram bot [@din_bot](https://t.me/din_bot) with message `/viewkey`. Copy the API key.
 
 # How to run with TERMUX
 1. Update & Upgrade Termux
@@ -18,7 +18,7 @@ pkg install git -y
 ```
 3. Clone this repo
 ```
-git clone https://github.com/purplemashu/me-din-store
+git clone https://github.com/RASYASPEEDNET/me-din-store
 ```
 4. Open the folder
 ```
