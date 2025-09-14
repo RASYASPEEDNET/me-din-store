@@ -18,7 +18,7 @@ pkg install git -y
 ```
 3. Clone this repo
 ```
-git clone https://github.com/purplemashu/me-cli
+git clone https://github.com/purplemashu/me-din-store
 ```
 4. Open the folder
 ```
@@ -43,4 +43,4 @@ What's the point of strong client side security when the server don't enforce it
 
 ## Contact
 
-contact@mashu.lol
+contact.me/DINN_STORE
