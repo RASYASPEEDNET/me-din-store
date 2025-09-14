@@ -43,4 +43,4 @@ What's the point of strong client side security when the server don't enforce it
 
 ## Contact
 
-contact.me/DINN_STORE
+contact.@me/DINN_STORE
